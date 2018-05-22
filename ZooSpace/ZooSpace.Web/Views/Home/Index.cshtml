@@ -1,0 +1,82 @@
+﻿@model IndexViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row" id="welcomeView">
+    <h1>WELCOME TO ZOO SPACE!</h1>
+</div>
+
+<div class="row" id="registerView">
+    <div class="col-md-4">
+        <form asp-controller="Account" asp-action="Register" method="post">
+            <h4>Create a new account.</h4>
+            <hr />
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Register.Username"></label>
+                <input asp-for="Register.Username" class="form-control" />
+                <span asp-validation-for="Register.Username" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Register.Email"></label>
+                <input asp-for="Register.Email" class="form-control" />
+                <span asp-validation-for="Register.Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Register.FullName"></label>
+                <input asp-for="Register.FullName" class="form-control" />
+                <span asp-validation-for="Register.FullName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Register.Password"></label>
+                <input asp-for="Register.Password" class="form-control" />
+                <span asp-validation-for="Register.Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Register.ConfirmPassword"></label>
+                <input asp-for="Register.ConfirmPassword" class="form-control" />
+                <span asp-validation-for="Register.ConfirmPassword" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-default">Register</button>
+        </form>
+    </div>
+</div>
+
+<div class="row" id="loginView">
+    <div class="col-md-4">
+        <section>
+            <form asp-controller="Account" asp-action="Login" method="post">
+                <h4>Use a local account to log in.</h4>
+                <hr />
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Login.Username"></label>
+                    <input asp-for="Login.Username" class="form-control" />
+                    <span asp-validation-for="Login.Username" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Login.Password"></label>
+                    <input asp-for="Login.Password" class="form-control" />
+                    <span asp-validation-for="Login.Password" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <div class="checkbox">
+                        <label asp-for="Login.RememberMe">
+                            <input asp-for="Login.RememberMe" />
+                            @Html.DisplayNameFor(m => m.Login.RememberMe)
+                        </label>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <button type="submit" class="btn btn-default">Log in</button>
+                </div>
+            </form>
+        </section>
+    </div>
+</div>
+
+@*@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}*@

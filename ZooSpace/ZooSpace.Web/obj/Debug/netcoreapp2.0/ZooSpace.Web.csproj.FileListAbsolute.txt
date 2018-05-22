@@ -1,0 +1,14 @@
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\ZooSpace\ZooSpace.Web\obj\Debug\netcoreapp2.0\ZooSpace.Web.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\ZooSpace\ZooSpace.Web\obj\Debug\netcoreapp2.0\ZooSpace.Web.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\ZooSpace\ZooSpace.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\ZooSpace\ZooSpace.Web\obj\Debug\netcoreapp2.0\ZooSpace.Web.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\ZooSpace\ZooSpace.Web\obj\Debug\netcoreapp2.0\ZooSpace.Web.AssemblyInfo.cs
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\ZooSpace\ZooSpace.Web\bin\Debug\netcoreapp2.0\ZooSpace.Web.deps.json
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\ZooSpace\ZooSpace.Web\bin\Debug\netcoreapp2.0\ZooSpace.Web.runtimeconfig.json
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\ZooSpace\ZooSpace.Web\bin\Debug\netcoreapp2.0\ZooSpace.Web.runtimeconfig.dev.json
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\ZooSpace\ZooSpace.Web\bin\Debug\netcoreapp2.0\ZooSpace.Web.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\ZooSpace\ZooSpace.Web\bin\Debug\netcoreapp2.0\ZooSpace.Data.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\ZooSpace\ZooSpace.Web\bin\Debug\netcoreapp2.0\ZooSpace.Data.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\ZooSpace\ZooSpace.Web\bin\Debug\netcoreapp2.0\ZooSpace.Web.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\ZooSpace\ZooSpace.Web\obj\Debug\netcoreapp2.0\ZooSpace.Web.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\ZooSpace\ZooSpace.Web\obj\Debug\netcoreapp2.0\ZooSpace.Web.pdb

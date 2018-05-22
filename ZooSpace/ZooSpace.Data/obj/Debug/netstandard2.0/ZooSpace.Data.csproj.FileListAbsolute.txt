@@ -1,0 +1,9 @@
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\ZooSpace\ZooSpace.Data\bin\Debug\netstandard2.0\ZooSpace.Data.deps.json
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\ZooSpace\ZooSpace.Data\bin\Debug\netstandard2.0\ZooSpace.Data.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\ZooSpace\ZooSpace.Data\obj\Debug\netstandard2.0\ZooSpace.Data.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\ZooSpace\ZooSpace.Data\obj\Debug\netstandard2.0\ZooSpace.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\ZooSpace\ZooSpace.Data\obj\Debug\netstandard2.0\ZooSpace.Data.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\ZooSpace\ZooSpace.Data\obj\Debug\netstandard2.0\ZooSpace.Data.AssemblyInfo.cs
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\ZooSpace\ZooSpace.Data\bin\Debug\netstandard2.0\ZooSpace.Data.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\ZooSpace\ZooSpace.Data\obj\Debug\netstandard2.0\ZooSpace.Data.dll
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\ZooSpace\ZooSpace.Data\obj\Debug\netstandard2.0\ZooSpace.Data.pdb
